@@ -52,4 +52,4 @@ Achados OOD: Diante de dígitos ocultados no treino (4 e 7), o modelo apresentou
 
 
 ## Vídeo de Apresentação
-Link do Vídeo (Google Drive): [Cole aqui o link compartilhado do seu vídeo no Google Drive]
+Link do Vídeo (Google Drive): https://drive.google.com/file/d/1xl9ATVziCxe3Mo-BiK-tq94Bh_qNkQKY/view?usp=sharing
